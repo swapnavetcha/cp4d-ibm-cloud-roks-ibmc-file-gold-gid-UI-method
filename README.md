@@ -8,11 +8,11 @@
 
 1)Provisioned single zone Redhat OpenShift Container cluster v 4.5 installed on IBM cloud
 
-<img src="images/Screenshot-rh-cluster.png" width="200">
+
 
 2)Redhat Openshift Container Webconsole
 
-<img src="images/Screenshot-openshift-webui.png" width="200">
+
 
 3)Cluster Admin Role
 
